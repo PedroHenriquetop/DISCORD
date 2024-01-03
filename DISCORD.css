@@ -1,0 +1,81 @@
+*{
+    text-decoration: #ffff;
+}
+
+body{
+    background-image: url(fundo\ 1.jpg);
+    background-size: 1550px;
+    height: 500px;
+}
+
+.logo-footer{
+    background-color: rgba(103, 7, 103, 0.389);
+    align-items: center;
+    border: solid 5px #28052e;
+    border-radius: 50px 0 50px 0;
+    margin: 250px 450px;
+    height: 100px;
+    width: 600px;
+    padding: 25px;
+}
+
+svg{
+    height: 120px;
+    width: 900px;
+    margin: -5px -150px
+}
+
+.circle-1{
+    background-color: rgba(68, 0, 56, 0.566);
+    border-radius: 1000px;
+    width: 1000px;
+    height: 1000px;
+    margin: -1400px -550px;
+    position: fixed;
+}
+
+.circle-2{
+    background-color: rgba(68, 0, 56, 0.393);
+    border-radius: 1000px;
+    width: 1000px;
+    height: 1000px;
+    margin: -180px 1000px;
+    position: fixed;
+}
+
+.button{
+    margin: -310px 695px;
+    height: 40px;
+    width: 90px;
+    align-items: center;
+    padding: 9px;
+}
+
+input{
+    border: solid #28052e;
+    border-radius: 5px 20px 5px;
+    background-color: rgba(98, 196, 134, 0.318);
+    height: 40px;
+    width: 100px;
+
+}
+
+a{
+    position: absolute;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: -29px 17px;
+    color: #ffff;
+    cursor: pointer blue;
+}
+
+marquee{
+    position: fixed;
+    margin: 30px 802px;
+    font-size: 110px;
+    width: 195px;
+    color: rgba(23, 7, 44, 0.662);
+}
+
+
+

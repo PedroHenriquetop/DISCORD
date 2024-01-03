@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(57, 57, 57, 0.493);
+    margin-bottom: 0;
+}
+
+.header{
+    height: 1521;
+    width:  1520;
+    margin: -500px -8px;
+}
+
+.container-1{
+    height: 1000;
+    width:  1160;
+    margin: -200px 190px;
+}
+
+.container-2{
+    height: 1510;
+    width:  1510;
+    margin-top: -500px;
+}
+
+.container-3{
+    height: 1610;
+    width:  1510;
+    margin-top: -960px;
+}
+
+.container-4{
+    height: 1300px;
+    width:  1655;
+    margin: -660px -80px;
+}
+
+.footer{
+    background-color: aqua;
+    height: 165px;
+    width: 1550;
+    margin: 500 -15px 0;
+    position: relative;
+
+}
